@@ -107,7 +107,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ff858c"
 			}
 		},
 		{
@@ -129,7 +129,7 @@
 				"source.cpp meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ff858c"
 			}
 		},
 		{
@@ -138,7 +138,7 @@
 				"variable.other.constant"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ff858c"
 			}
 		},
 		{
@@ -148,7 +148,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ff858c"
 			}
 		},
 		{
@@ -438,7 +438,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ff858c"
 			}
 		},
 		{
@@ -514,7 +514,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#f07178"
+				"foreground": "#ff858c"
 			}
 		},
 		{
@@ -525,7 +525,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#ff858c"
 			}
 		},
 		{
@@ -540,7 +540,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#ff858c"
 			}
 		},
 		{
